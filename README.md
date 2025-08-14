@@ -24,6 +24,7 @@ Google-Play-Store-Analysis/
 │     ├── user_reviews.csv                                   
 ├── Tableau_Dashboard/                              
 │     ├── dashboard.twb                             
-│     ├── dashboard.png                              
+│     ├── dashboard.png    
+├── images/  
 
 
