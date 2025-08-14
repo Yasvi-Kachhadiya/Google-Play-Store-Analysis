@@ -23,8 +23,14 @@ Google-Play-Store-Analysis/
 │     ├── apps.csv                    
 │     ├── user_reviews.csv                                   
 ├── Tableau_Dashboard/                              
-│     ├── dashboard.twb                             
-│     ├── dashboard.png    
+│     ├── Avg-User rating per category.png                                        
+│     ├── Category wise User Sentiment.png             
+│     ├── Distribution of Sentimates.png            
+│     ├── Percentage of Free and Paid Apps.png               
+│     ├── Free & Paid App instaaed per each Category.png                 
+│     ├── Rating and Avg Sentiment Polarities.png                    
+│     ├── Rating.png            
+│     ├── Ratting by Age.png              
+│     ├── Reviwew per Category.png                 
+│     ├── Dashboard.png  
 ├── images/  
-
-
