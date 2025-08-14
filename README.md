@@ -15,9 +15,15 @@ This project analyzes over 10,000 Google Play Store apps and user reviews to ext
 
 ## 📂 Project Structure
 Google-Play-Store-Analysis/
-│── README.md
-│── Project_Report.pdf
-│── Data/
-│── Notebooks/
-│── Tableau_Dashboard/
+│                             
+├── README.md                                        
+├── Project_Report.pdf    
+├── Code.ipynb                 
+├── Data/                                     
+│     ├── apps.csv                    
+│     ├── user_reviews.csv                                   
+├── Tableau_Dashboard/                              
+│     ├── dashboard.twb                             
+│     ├── dashboard.png                              
+
 
